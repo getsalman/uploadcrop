@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(234, 234, 234) !important;
+}
+
+/* dropzone styles */
+.dropzone {
+  border: dashed 3px black;
+  border-radius: 5px;
+  padding-top: 30px;
+  text-align: center;
+  /* min-height: 236px; */
+}
+
+.dropzone--isActive {
+  border: dashed 3px green;
+}
